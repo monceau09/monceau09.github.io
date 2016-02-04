@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code afternoon</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Feb 2016 16:16:56 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Feb 2016 16:16:56 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>My second Post</title>
+        <description>&lt;h3 id=&quot;lorem-ipsum-dolor-sit-amet-ei-mea&quot;&gt;Lorem ipsum dolor sit amet, ei mea&lt;/h3&gt;
+
+&lt;p&gt;oblique detraxit maiestatis, vel nobis aperiam honestatis te. Essent fastidii vix in. Eam brute omittam iracundia ut, sale persequeris duo eu. Indoctum mediocritatem eam an, eu audire corpora deleniti quo. Aliquid similique usu cu, te quo graeci tritani, ullum dolore no vel. Simul deserunt petentium an eam, his et enim volutpat patrioque.&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;Te alia atqui omnium sit, ne per legere populo corpora. Te agam purto utamur sea, no sit dico disputationi. In suscipit accusata maluisset usu, melius conceptam vel eu. Ut eros virtute pericula pri, nec brute prompta abhorreant ei, cu eos vulputate dissentiet.&lt;/p&gt;
+
+&lt;p&gt;Mea cu iusto fabulas vivendo, vix nisl offendit ei, tractatos mediocrem intellegam quo te. Solet assueverit sed ex, per quem everti audiam an. Has te fuisset partiendo, an tibique qualisque consectetuer usu. Vel nusquam nominati in, atqui mediocrem ut usu. Eum modus debet hendrerit ut. In eum cibo euripidis, qui et oblique dolorem consequuntur, postea pertinacia te mei. Vix soleat oblique maiorum at.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Nov 2015 09:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/blog/our-second-post/</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/our-second-post/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Post</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, ei mea oblique detraxit maiestatis, vel nobis aperiam honestatis te. Essent fastidii vix in. Eam brute omittam iracundia ut, sale persequeris duo eu. Indoctum mediocritatem eam an, eu audire corpora deleniti quo. Aliquid similique usu cu, te quo graeci tritani, ullum dolore no vel. Simul deserunt petentium an eam, his et enim volutpat patrioque.&lt;/p&gt;
+
+&lt;p&gt;&lt;!--excerpt--&gt;&lt;/p&gt;
+
+&lt;p&gt;Te alia atqui omnium sit, ne per legere populo corpora. Te agam purto utamur sea, no sit dico disputationi. In suscipit accusata maluisset usu, melius conceptam vel eu. Ut eros virtute pericula pri, nec brute prompta abhorreant ei, cu eos vulputate dissentiet.&lt;/p&gt;
+
+&lt;p&gt;Mea cu iusto fabulas vivendo, vix nisl offendit ei, tractatos mediocrem intellegam quo te. Solet assueverit sed ex, per quem everti audiam an. Has te fuisset partiendo, an tibique qualisque consectetuer usu. Vel nusquam nominati in, atqui mediocrem ut usu. Eum modus debet hendrerit ut. In eum cibo euripidis, qui et oblique dolorem consequuntur, postea pertinacia te mei. Vix soleat oblique maiorum at.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Nov 2015 09:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/blog/our-first-post/</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/our-first-post/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Les variables globales</title>
+        <description>&lt;h2 id=&quot;lorem-ipsum-dolor-mah-nizzle&quot;&gt;Lorem ipsum dolor mah nizzle&lt;/h2&gt;
+&lt;p&gt;amizzle, its fo rizzle adipiscing its fo rizzle. Nullam check out this velizzle, own yo’ volutpizzle, mofo quizzle, gravida stuff, shizzlin dizzle.Pellentesque eget tortor. Mofo erizzle. Daahng dawg izzle yo dapibizzle stuff phat gizzle.
+its fo rizzle adipiscing its fo rizzle.  Nullam check out this
+ &lt;!--excerpt--&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line&quot;&lt;/span&gt;
+  &lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Widget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# show.html.erb&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;json&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;json: &lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;sed-vitae-tortor-izzle-izzle&quot;&gt;Sed vitae tortor izzle izzle&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;shiz consequizzle. Pot convallizzle
+gangsta izzle yo posuere, ma nizzle ma nizzle ass pede, the bizzle crazy augue dolizzle sizzle velizzle. Check it out ac dizzle nizzle elit hizzle check it out. Tellivizzle turpizzle nisi, you son of a bizzle at, porta boom shackalack, dang its fo rizzle, dope.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;nunc-sed-neque-yo-ipsum-dolor-sit-amet-consectetuer-nizzle-fizzle&quot;&gt;Nunc sed neque. Yo ipsum dolor sit amet, consectetuer nizzle fizzle.&lt;/h2&gt;
+&lt;p&gt;Maecenizzle izzle dang. In congue. Vestibulizzle izzle i’m in the shizzle daahng dawg velizzle da bomb dictum. Fo shizzle facilisizzle get down get down pimpin’ nibh. Yo mamma commodo. Shit eu yo mamma boofron daahng dawg sagittis. Aenean non fo shizzle boom shackalack urna go to hizzle doggy. Suspendisse tellivizzle est, bibendum bling bling, mammasay mammasa mamma oo sa vel, imperdizzle things, lacus. Yo egizzle dizzle dawg massa adipiscing shut the shizzle up. Curabitur et break it down brizzle tellizzle ornare nonummy.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsizzle primizzle doggy faucibus gangsta crazy et shizznit posuere cubilia Curae; Sizzle vitae nulla black stuff ornare aliquizzle. Phasellus euismizzle erat. Praesent fo shizzle get down get down velizzle. You son of a bizzle boom shackalack dui, adipiscing vitae, away sizzle, ghetto vitae, boofron. Etiam malesuada boofron mauris. Sed bling bling elit augue shit laorizzle. Get down get down sed augue. Vivamizzle sagittis. Praesent mofo that’s the shizzle quizzle lacizzle posuere adipiscing. Pizzle yippiyo tellus a break yo neck, yall tincidunt mollis. Dawg odio. Nizzle gangster. Quisque magna fo shizzle, break yo neck, yall vitae, my shizz izzle, imperdizzle my shizz, orci. Integizzle commodo sodalizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle. Etizzle sollicitudin tristique phat. Phasellizzle mi fizzle, convallis izzle, cool vizzle, ultricies in, nibh. I’m in the shizzle erat maurizzle, facilisis eu, sollicitudin eu, yippiyo pimpin’, fo shizzle mah nizzle fo rizzle, mah home g-dizzle. Fusce mauris risizzle, owned sheezy, fizzle yo, blandit sit gangster, i’m in the shizzle.&lt;/p&gt;
+
+&lt;p&gt;Nunc da bomb. Donizzle bling bling. Bling bling placerat fo shizzle mah nizzle fo rizzle, mah home g-dizzle izzle pizzle. Morbi izzle tortor. Fizzle izzle my shizz owned mi consectetizzle mah nizzle. The bizzle ipsizzle dolor sit amet, consectetizzle adipiscing elizzle. I saw beyonces tizzles and my pizzle went crizzle gizzle arcu, tellivizzle, dawg go to hizzle, mollizzle dope, gizzle. Aliquizzle erat dizzle. Donec gizzle posuere ma nizzle. Suspendisse aliquizzle. Crizzle odio urna, venenatis et, fo vitae, bizzle the bizzle, sapien. Praesent sizzle orci, cool nizzle, ass dope, gangsta izzle, sizzle.&lt;/p&gt;
+
+&lt;p&gt;I saw beyonces tizzles and my pizzle went crizzle commodo dope izzle urna. Break it down cool. Vestibulum fo shizzle gizzle dui. For sure sizzle boofron crackalackin eu leo volutpat condimentizzle. Suspendisse break yo neck, yall. Nunc izzle sizzle vitae purus tincidunt aliquam. Sizzle dope owned ante. I’m in the shizzle gizzle erizzle izzle sizzle. Quisque malesuada. You son of a bizzle vitae dope dawg diam mollizzle go to hizzle. Fo shizzle my shizz. Nullizzle i’m in the shizzle quam a massa molestie pulvinar. Nullizzle sagittis gangsta hendrerit izzle. Hizzle semper metizzle sizzle tellizzle. Etiam pretium bow wow wow nizzle you son of a bizzle. Uhuh … yih! rutrum doggy purus.&lt;/p&gt;
+
+&lt;p&gt;Boofron check it out ligula. Pizzle porta commodo tellizzle. Dope viverra, sapien izzle owned hendrerizzle, the bizzle urna shut the shizzle up leo, rizzle fo shizzle shit sapizzle stuff phat. Donec eu cool. Vestibulizzle sheezy felis. elementizzle faucibus erizzle. Gangsta nulla da bomb, volutpizzle , break yo neck, yall gangster, auctor eget, nunc. Sizzle pharetra. Nunc nisi. Pizzle sizzle away leo bow wow wow sizzle blandizzle dignissizzle. Dang laorizzle tellus sizzle amet enizzle. Aenean tempizzle boom shackalack felizzle.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Nov 2015 09:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/blog/Les-variables-globales/</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/Les-variables-globales/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
